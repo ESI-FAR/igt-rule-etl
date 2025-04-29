@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+.DS_Store
 __pycache__/
 *.py[cod]
 *$py.class
@@ -132,6 +133,7 @@ celerybeat.pid
 .venv
 env/
 venv/
+trenv/
 ENV/
 env.bak/
 venv.bak/

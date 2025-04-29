@@ -1,0 +1,23 @@
+[
+  {
+    "driven_by": "actor",
+    "source_component": "Direct Object",
+    "source_statement": "6",
+    "target_component": "Attribute",
+    "target_statement": "12"
+  },
+  {
+    "driven_by": "outcome",
+    "source_component": "Direct Object",
+    "source_statement": "13",
+    "target_component": "Activation Condition",
+    "target_statement": "14"
+  },
+  {
+    "driven_by": "sanction",
+    "source_component": "Aim",
+    "source_statement": "16",
+    "target_component": "Activation Condition",
+    "target_statement": "17"
+  }
+]
